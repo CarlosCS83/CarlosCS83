@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlosCS83
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 3D modelling
+- 🌱 I’m currently learning Unreal Engine 5
+- 💞️ I’m looking to collaborate on Video Games
 - 📫 instagram.com/carlos_carvajal_art/
 
 <!---
