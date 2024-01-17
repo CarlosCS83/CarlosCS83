@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosCS83
-- 👀 I’m interested in 3D modelling
-- 🌱 I’m currently learning Unreal Engine 5
+- 👀 I’m interested in 3D modeling
+- 🌱 I’m currently learning Unreal Engine 5 and Unity
 - 💞️ I’m looking to collaborate on Video Games
 - 📫 instagram.com/carlos_carvajal_art/
 
